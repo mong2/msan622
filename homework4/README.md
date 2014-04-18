@@ -37,7 +37,7 @@ Removed Words:
 will, can, get, that, year, let
 
 
-![IMAGE](freqPlot_hw4.png)
+![IMAGE](img/freqPlot_hw4.png)
 First, I did a scatter plot on the most frequent words that were used by President Bush and President Obama. From the plot, it shows that President Obama loves "American" way more than President Bush and that President Bush is a MUST person. They care pretty much equally on **work**, **care** and **health**, which I assume that health care and work have been the hot topic since 2001. Might because of the huge deficit that the Bush administration had left to the Obama administration, we can tell from the plot that President Obama didn't like to talk about MONEY (**budget** and **tax**)
 
 For the scatter plot, I changed the color of the text plots nad the slope line so that the grapgh will look more friendly. I beleive navy+orange is one of the most neutral color combinations. The grapgh shows only the top 20 most frequently used words. As you can easily tell from the graph,I've changed the title of both axises and added a plot title. All the titles are adjusted in my favorite form, including the postion, face, and size. I've also changed the major grid to dotted line so that it looks better. I've also fixed the size of the coord. 
