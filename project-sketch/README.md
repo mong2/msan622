@@ -7,7 +7,7 @@ Project: Sketch
 
 ## Discussion ##
 
-***Basic***
+**Basic**
 Scatter Plot on batters and pitchers from Year 2000-2013. 
 this will be an interactive scatter plot that viewers can change 
 -year
@@ -25,7 +25,7 @@ at the same time, there should be table to show the informations from dataset
 another interactive page that will generate players base on the team budget that is set by the viewer. Will be able to suggest around 5-10 players for each position.
 
 
-***historical data*** 
+***Historical data*** 
 
 -chasing K 
 -chasing homeruns 
