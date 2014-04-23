@@ -11,12 +11,11 @@ Project: Sketch
 
 Scatter Plot on batters and pitchers from Year 2000-2013. 
 this will be an interactive scatter plot that viewers can change 
--`year`
-
--`team`
--division 
--league 
--with awards 
+- team
+- year
+- division 
+- league 
+- with awards 
 
 at the same time, there should be table to show the informations from dataset  
 
@@ -29,8 +28,8 @@ another interactive page that will generate players base on the team budget that
 
 **Historical data**
 
--chasing K 
--chasing homeruns 
--most champions 
+- chasing K 
+- chasing homeruns 
+- most champions 
 
 [here will use more time series]
