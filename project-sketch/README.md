@@ -12,6 +12,7 @@ Project: Sketch
 Scatter Plot on batters and pitchers from Year 2000-2013. 
 this will be an interactive scatter plot that viewers can change 
 -`year`
+
 -`team`
 -division 
 -league 
